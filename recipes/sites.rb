@@ -2,7 +2,7 @@
 # Cookbook Name:: php_node
 # Recipe:: default
 #
-# Copyright 2011, YOUR_COMPANY_NAME
+# Copyright 2013, Andrew Kulakov <avk@8xx8.ru>
 #
 # All rights reserved - Do Not Redistribute
 #
